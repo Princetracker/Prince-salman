@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "god",
 	eventType: ["log:unsubscribe","log:subscribe","log:thread-name"],
 	version: "1.0.0",
-	credits: "𝙋𝙧𝙞𝙮𝙖𝙣𝙨𝙝 𝙍𝙖𝙟𝙥𝙪𝙩",
+	credits: "— ※  𝐏͢ɼıı͜͡ƞɕɘ ː͢» 🩷🪽",
 	description: "Record bot activity notifications!",
     envConfig: {
         enable: true

@@ -6,7 +6,7 @@
   name: "siteinf",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "— ※ 𝐁͢ɼ๏͜͡ʞɛ̈n͎ 𝐏͢ɼıı͜͡ƞɕɘ ː͢» 🩷🪽",
   description: "View site info",
   commandCategory: "info",
   usages: "[site]",
